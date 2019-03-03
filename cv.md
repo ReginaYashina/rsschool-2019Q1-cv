@@ -4,7 +4,9 @@
 
 ## Contacts: 
 phone number: +375 (33) 3418764
+
 email: reginayashina@inbox.ru 
+
 skype: live:reginayashina
 
 ## Objective & Summary:
