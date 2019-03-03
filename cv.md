@@ -1,6 +1,7 @@
 # CV
 
-## Name, Last Name: Regina Yashina 
+## Name & Last Name: 
+Regina Yashina 
 
 ## Contacts: 
 phone number: +375 (33) 3418764
@@ -45,4 +46,4 @@ Educational institution & specialty: Belarusian State University of Informatics 
 Years of education: 2017 - 2019
 
 ## English proficiency level: 
-closer to Pre-Intermediate. I currently attend English language courses.
+Closer to Pre-Intermediate. I currently attend English language courses.
