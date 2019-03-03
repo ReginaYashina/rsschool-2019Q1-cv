@@ -44,4 +44,5 @@ I have no commercial development experience yet.
 Educational institution & specialty: Belarusian State University of Informatics and Radioelectronics. Web Design and Computer Graphics.
 Years of education: 2017 - 2019
 
-## English proficiency level: closer to Pre-Intermediate. I currently attend English language courses.
+## English proficiency level: 
+closer to Pre-Intermediate. I currently attend English language courses.
