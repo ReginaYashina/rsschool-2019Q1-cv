@@ -40,6 +40,7 @@ I have no commercial development experience yet.
 
 ### Examples of studies:
 - <https://reginayashina.github.io/samsung/>
+- <https://github.com/ReginaYashina/ReginaYashina.github.io/tree/master/animation>
 
 ## Education:
 Educational institution & specialty: Belarusian State University of Informatics and Radioelectronics. Web Design and Computer Graphics.
