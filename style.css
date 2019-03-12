@@ -30,8 +30,6 @@ h2{
 .header img{
 	width: 250px;
 	margin: 15px;
-
-
 }
 
 .header section{
@@ -67,6 +65,8 @@ ul a{
 	line-height: 1.5;
 	text-align: justify;
 }
+
+/*Objective & Summary:*/
  .main article h2{
  	margin-top: 30px;
  	background-color:  #F0F8FF;
@@ -79,3 +79,21 @@ ul a{
  .obj, .summary{
  	text-indent: 35px;
  }
+ /*Skills:*/
+ .knowledge{
+ 	margin-bottom: 25px;
+ }
+ .skills{
+ 	display: flex;
+ 	background-color: #FFFAFA;
+ }
+ 	
+.skills ul{
+	width: 500px;
+	padding-left: 35px;
+	list-style-type: none;
+}
+
+.skills li{
+ margin-bottom: 5px;
+}
