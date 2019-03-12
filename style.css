@@ -65,6 +65,14 @@ ul a{
 	line-height: 1.5;
 	text-align: justify;
 }
+.main ul{
+	list-style-type: none;
+	margin-top: 30px;
+}
+
+.top{
+	margin-top: 30px;
+}
 
 /*Objective & Summary:*/
  .main article h2{
@@ -85,15 +93,18 @@ ul a{
  }
  .skills{
  	display: flex;
- 	background-color: #FFFAFA;
+ 	background-color: rgba(248, 248, 255, .5);
  }
  	
 .skills ul{
 	width: 500px;
 	padding-left: 35px;
-	list-style-type: none;
 }
 
 .skills li{
  margin-bottom: 5px;
+}
+
+.english{
+	margin-bottom: 70px;
 }
